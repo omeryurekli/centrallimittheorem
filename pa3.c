@@ -1,11 +1,3 @@
-/*
- * Central Limit Theorem Printer
- * Prints a histogram appearing as rows of X's 
- * where the number of Xs in each row represents the number of times that an average over random samples 
- * fell into the range represented by that row.
- * Author: Omer Yurekli - yureklio@bc.edu
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
